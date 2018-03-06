@@ -10,7 +10,7 @@ Data fields
 --
 * ranking - Int.e.g.#1
 * song name - String.e.g.Top Off (feat. JAY Z, Future & Beyoncé)
-* artist - string.e.g.Artist: DJ Khaled
+* artist - String.e.g.Artist: DJ Khaled
 
 Data volume
 -----------
