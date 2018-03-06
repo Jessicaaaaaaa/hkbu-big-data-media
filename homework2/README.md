@@ -3,8 +3,8 @@ iTunes dataset
 
 Data source
 -------
-    This dataset contains iTunes Top 100 Songs (USA) list scraped from the website.
-    Starting page:https://www.doipod.com/itunes-charts/itunes-top-100-songs-usa/
+This dataset contains iTunes Top 100 Songs (USA) list scraped from the website.
+Starting page:https://www.doipod.com/itunes-charts/itunes-top-100-songs-usa/
 
 Data fields
 --
