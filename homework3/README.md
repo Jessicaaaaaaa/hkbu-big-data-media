@@ -6,3 +6,4 @@ In this story, I crawl and analyze the top 100 songs evaluated by iTunes users, 
 Pop music wins audiences' hearts
 ------
 ![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/genre.png)
+By counting the frequency of each genre of songs,  the Word Cloud chart shows that Pop, Romance, Country and Hip-Hop/Rap are the top 3 popular genres among audiences. Pop has the highest proportion (34%), followed by Country(24%), Hip-Hop/Rap (21%).
