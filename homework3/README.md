@@ -8,4 +8,10 @@ Pop music wins audiences' hearts
 ------
 ![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/genre.png)
 
-By counting the frequency of each genre of songs,  the Word Cloud chart shows that Pop, Romance, Country and Hip-Hop/Rap are the top 3 popular genres among audiences. Pop has the highest proportion (34%), followed by Country(24%), Hip-Hop/Rap (21%).
+By counting the frequency of each genre of songs,  the Word Cloud chart shows that Pop, Romance, Country and Hip-Hop/Rap are the top 3 popular genres among audiences. Pop has the highest proportion (34%), followed by Country(24%), Hip-Hop/Rap (21%).<br>
+
+Cardi B is the most popular artist
+------
+![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/artist.png)
+
+Cardi B tops the list with 4 selected songs, followed by Rich The Kid and Imagine Dragons, with 3 songs listed respectively.
