@@ -14,4 +14,13 @@ Cardi B is the most popular artist
 ------
 ![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/artist.png)
 
-Cardi B tops the list with 4 selected songs, followed by Rich The Kid and Imagine Dragons, with 3 songs listed respectively.
+Cardi B tops the list with 4 selected songs, followed by Rich The Kid and Imagine Dragons, with 3 songs listed respectively.<br>
+
+The time of iTunes top songs
+------
+![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/time.png)<br>
+
+The price of iTunes top songs
+------
+
+![image](https://github.com/Jessicaaaaaaa/hkbu-big-data-media/raw/master/homework3/price.png)
